@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Configuration file
+
+You must add a .env.local file in the root of the project
+
+You must add the API URL connection.
+
+`API_URL='http://localhost/test/api/'`
+
 ## Getting Started
 
 First, run the development server:
